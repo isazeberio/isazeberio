@@ -11,8 +11,10 @@ I hold a background in [Political Science and International Studies](https://www
 💻 Programming Languages: <br />
  ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=white&color=2bbc8a) 
  ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a) 
+  ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
  ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=sql&logoColor=white&color=2bbc8a)
  ![](https://img.shields.io/badge/Code-GAMA-informational?style=flat&logo=GAMA&logoColor=white&color=2bbc8a)
+
 
 💡 Let's Connect: <br />
 If you're interested in discussing ideas, collaborating on projects, or exploring shared research interests, I'd love to connect! You can reach me via my [LinkedIn profile](https://www.linkedin.com/in/isabela-zeberio-aguerrevere-b46460227/).
