@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
 My name is Isabela Zeberio (she/her), a Computational Social Scientist with a passion for exploring identities, cultural evolution, and human interactions through computational methodology. I'm particularly interested in learning more about agent-based modelling and data visualisation projects. 
 
