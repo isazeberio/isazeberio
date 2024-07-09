@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-My name is Isabela Zeberio (she/her), a Computational Social Scientist with a passion for exploring identities, cultural evolution, and human interactions through computational methodology. I'm particularly interested in learning more about agent-based modelling and data visualisation projects. 
+My name is Isabela Zeberio (she/her), a Social Scientist with a passion for exploring identities, cultural evolution, and human interactions through computational methodology. I'm particularly interested in learning more about agent-based modelling and data visualisation projects. 
 
 🔬 Research Focus: <br />
 Currently, I'm a first-year PhD candidate at the University of Amsterdam, actively involved in the [EUDENTIFY research project](https://artes.uva.nl/content/research-groups/eudentify/eudentify.html) that aims to study the long-term trends and causal mechanisms in the link between European Union institution building and European identity formation 🇪🇺.
