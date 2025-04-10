@@ -1,12 +1,11 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-My name is Isabela Zeberio (she/her), a Social Scientist with a passion for exploring identities, cultural evolution, and human interactions through computational methodology. I'm particularly interested in learning more about agent-based modelling and data visualisation projects. 
-
+My name is Isabela Zeberio (she/her), a Social Scientist with a passion for exploring identities, cultural evolution, and human interactions through computational methodology. 
 🔬 Research Focus: <br />
-Currently, I'm a first-year PhD candidate at the University of Amsterdam, actively involved in the [EUDENTIFY research project](https://artes.uva.nl/content/research-groups/eudentify/eudentify.html) that aims to study the long-term trends and causal mechanisms in the link between European Union institution building and European identity formation 🇪🇺.
+Currently, I'm a second-year PhD cCandidate at the University of Amsterdam, actively involved in the [EUDENTIFY research project](https://artes.uva.nl/content/research-groups/eudentify/eudentify.html) that aims to study the long-term trends and causal mechanisms in the link between European Union institution building and European identity formation 🇪🇺.
 
 📚 Background: <br />
-I hold a background in [Political Science and International Studies](https://www.uc3m.es/bachelor-degree/international-studies-political-science) and a Master's degree in [Computational Social Science](https://www.uc3m.es/master/computational-social-science) from the University Carlos III of Madrid. My interdisciplinary perspective enables me to bridge the gap between Social Science theories and computational methodologies.
+I hold a background in [Political Science and International Studies](https://www.uc3m.es/bachelor-degree/international-studies-political-science) and a Master's degree in [Computational Social Science](https://www.uc3m.es/master/computational-social-science) from the University Carlos III of Madrid.
 
 💻 Programming Languages: <br />
  ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=white&color=2bbc8a) 
