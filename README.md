@@ -2,7 +2,7 @@
 
 My name is Isabela Zeberio (she/her), a Social Scientist with a passion for exploring identities, cultural evolution, and human interactions through computational methodology. <br />
 🔬 Research Focus: <br />
-Currently, I'm a second-year PhD cCandidate at the University of Amsterdam, actively involved in the [EUDENTIFY research project](https://artes.uva.nl/content/research-groups/eudentify/eudentify.html) that aims to study the long-term trends and causal mechanisms in the link between European Union institution building and European identity formation 🇪🇺.
+Currently, I'm a third-year PhD Candidate at the University of Amsterdam, actively involved in the [EUDENTIFY research project]([https://artes.uva.nl/content/research-groups/eudentify/eudentify.html](https://www.eudentify.org/)) that aims to study the long-term trends and causal mechanisms in the link between EU institution building and European identity formation 🇪🇺
 
 📚 Background: <br />
 I hold a background in [Political Science and International Studies](https://www.uc3m.es/bachelor-degree/international-studies-political-science) and a Master's degree in [Computational Social Science](https://www.uc3m.es/master/computational-social-science) from the University Carlos III of Madrid.
